@@ -1,4 +1,4 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# A short presentation about rails performance based on [Slidev](https://github.com/slidevjs/slidev)!
 
 To start the slide show:
 
